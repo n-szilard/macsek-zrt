@@ -14,3 +14,19 @@ Tudta, hogy a Maine Coon-t Amerika első kiállítási macskájaként is nevezik
 ## Skót lógófülű 
 
 A Skót lógófülű macska legfeltűnőbb jegye az előre hajló kicsi fülek, melyek kerek formát kölcsönöznek fejének, mintha egy baba arcára emlékeztetne. A lekonyuló fülek születése után kb. 3-4 héttel formálódnak ilyen alakúra. Normál macskáknál a fül porcos része ekkor megkeményedik, és a fülek egyenesen állnak. Ez a folyamat a Scottish Fold-nál nem megy végbe. További jellemzőjük a széles orr, farkuk megfelel az állat testhosszának, szőre puha és sűrű. A közepesen hosszú bundájú Skót lógófülű macska mellett létezik a félhosszú szőrrel rendelkező Highland Fold is. Ez a változat a Brit hosszúszőrű macskákkal történt keresztezéssel jött létre. Szinte az összes színű szőrzet megengedett, csak a csoki, sziám-point és a lila nem. A kandúr Skót lógófülű macska kb. 4-5 kg. A nőstények valamivel könnyebbek, kb. 2-4 kg-osak.
+
+
+## Orosz kék macska
+
+Az orosz kék macska testfelépítése kecses. A hosszú lábú, 3-5 kg-ot nyomó közepes termetű cica nagymértékben különbözik a brit rövidszőrű zömök alkatától. Ezzel szemben a karthauzi macska már sokkal jobban hasonlít rá – nehéz lenne megkülönböztetni őket egymástól, ha nem lenne ott a szemük: a karthauzié sárga, míg az orosz kéké ragyogó smaragdszínű. Feje ék alakú, szeme és füle elég távol ülő. Különösen jellemző rá a kiterjedt bajusztő, ami rendkívül jellegzetes arckifejezést kölcsönöz számára.
+
+Az orosz kék puha szőre különösen eláll testtől. Ezüstös csillogású kékesszürke szőre a fajta névadója! Bármilyen más árnyalat, foltok vagy tabby rajzolat nem megengedett a fajtára vonatkozó standard szerint. Ideális esetben az orrtükör és a mancsok is kékek. Habár manapság már fehér és fekete színben is tenyésztik őket, nem minden tenyésztői egyesület fogadja el ezeket a példányokat. A kölyköknél gyakran megjelenik a cirmos szellemrajzolat, ami legkésőbb 1 éves korukra eltűnik és egyszínűvé válik bundájuk. A színtől eltekintve a szőr selymessége is egyedülálló: a fedőszőr és az aljszőrzet ugyanolyan hosszú – ezáltal jön létre a plüss hatású, nagyon puha bunda. Az orosz kék macska az egyetlen fajtársai közül, akinek ilyen dupla szőrzete van!
+
+
+
+
+
+
+
+
+
