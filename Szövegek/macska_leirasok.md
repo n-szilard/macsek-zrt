@@ -1,0 +1,6 @@
+## Ragdoll
+
+
+A masszív, termetes ragdoll széles mellkasával és izmos testével erőteljes megjelenésű, s emellett még puha szőre az, ami leginkább szembe tűnik: közepes hosszúságú szőrzete selymes struktúrájú, s csak kevés aljszőrzet tartozik hozzá, így azután szőre a testéhez simul. Ez amolyan plüssállatos kinézetet kölcsönöz a cicának – amit a gyakori nyak körüli gallér csak még tovább fokoz. A ragdoll macska feje közepes nagyságú, s ék alakban fut az egymástól távol álló, kerek fülekig. A lábai hátul valamivel hosszabbak, ami enyhe lejtést ad a hát vonalának. A ragdoll nőstények 6,5, míg a hímek akár 9,5 kg-osak is lehetnek. Vállmagasságuk elérheti a 40 cm-t, hosszuk pedig az orruk hegyétől a farkuk végéig akár 1,20 méter is lehet.
+Nagy, kerek, világító kék szemei a fajta jellegzetességéül szolgálnak, s ugyanígy különlegesek színei: a sziámikhoz hasonlóan a ragdoll cica is a „point macskák“ közé tartozik. Természetes szőrszíne csak a testcsúcsokon mutatkozik meg – így a pofáján, lábain, farkán és a fülein. Alapszíne genetikai okokból kifolyólag csak a hideg testrészeken mutatkozik meg, ezek az ú.n. „point“-ok. A test közepén fehéres rajzolat fedi a színezetet. Point-színként bármely szőrszín előfordulhat és megengedett: seal-, blue-, chocolate-, lilac-, újabban vörös- és cream-point a legelterjedtebb ragdoll színezet-változatok.
+
