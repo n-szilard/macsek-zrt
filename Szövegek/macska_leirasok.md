@@ -22,6 +22,10 @@ Az orosz kék macska testfelépítése kecses. A hosszú lábú, 3-5 kg-ot nyom�
 
 Az orosz kék puha szőre különösen eláll testtől. Ezüstös csillogású kékesszürke szőre a fajta névadója! Bármilyen más árnyalat, foltok vagy tabby rajzolat nem megengedett a fajtára vonatkozó standard szerint. Ideális esetben az orrtükör és a mancsok is kékek. Habár manapság már fehér és fekete színben is tenyésztik őket, nem minden tenyésztői egyesület fogadja el ezeket a példányokat. A kölyköknél gyakran megjelenik a cirmos szellemrajzolat, ami legkésőbb 1 éves korukra eltűnik és egyszínűvé válik bundájuk. A színtől eltekintve a szőr selymessége is egyedülálló: a fedőszőr és az aljszőrzet ugyanolyan hosszú – ezáltal jön létre a plüss hatású, nagyon puha bunda. Az orosz kék macska az egyetlen fajtársai közül, akinek ilyen dupla szőrzete van!
 
+## Sziámi
+
+A sziámi cicákat tréfásan gyakran nevezik a macskavilág kutyáinak. Ez az elnevezés arra utal, hogy ezt a macskafajtát az ember bizonyos fokig tanítani tudja. Azonban hozzá kell tennünk, hogy a sziámi cica csak annyit hajlandó tanulni egy bizonyos napon, amennyi és ami neki éppen tetszik. Aki erőszakkal akar nevelni, valamire megtanítani egy sziámi macskát, könnyedén beszerezhet egynéhány karmolást. A sziámi meglehetősen társaságkedvelő macska, aki rendkívüli közlési vággyal rendelkezik. Sokkal jobban érzi magát, ha párban tartják, mivel szoros köteléket tud kialakítani más macskákkal, órákon át is boldogan eljátszik a többiekkel. Intelligenciája és jó természete miatt nagyszerű családi macska válhat belőle.
+
 
 
 
