@@ -27,6 +27,12 @@ Az orosz kék puha szőre különösen eláll testtől. Ezüstös csillogású k
 A sziámi cicákat tréfásan gyakran nevezik a macskavilág kutyáinak. Ez az elnevezés arra utal, hogy ezt a macskafajtát az ember bizonyos fokig tanítani tudja. Azonban hozzá kell tennünk, hogy a sziámi cica csak annyit hajlandó tanulni egy bizonyos napon, amennyi és ami neki éppen tetszik. Aki erőszakkal akar nevelni, valamire megtanítani egy sziámi macskát, könnyedén beszerezhet egynéhány karmolást. A sziámi meglehetősen társaságkedvelő macska, aki rendkívüli közlési vággyal rendelkezik. Sokkal jobban érzi magát, ha párban tartják, mivel szoros köteléket tud kialakítani más macskákkal, órákon át is boldogan eljátszik a többiekkel. Intelligenciája és jó természete miatt nagyszerű családi macska válhat belőle.
 
 
+## Burmai szent templommacska
+
+Félhosszú szőre túlnyomórészt fehér és csak olyan kiálló testrészek, mint az orr környéke, a lábak, a farok és a fülek sötétebb színűek. Ezt a mintázatot „point“ elnevezéssel illetik. A genetikai ismeretek szerint az alapszín csak az ún. hideg testrészeken, a „pointokon” jelenik meg. A test többi részén a fehér szín dominál.
+
+Ez a mintázat a fajta egyik legfontosabb jegye. Mindazonáltal nem minden point mintázatú cicus, aki fehér mancsokkal és félhosszú bundával rendelkezik, burmai szent templommacska! Testének enyhén nyújtottnak kell lennie, ennek ellenére izmos és közepesen nehéz, melyhez viszonylag rövid, tömzsi lábak társulnak. Farka bozontos, feje erőteljes hangsúlyos állal. Különösen figyelemre méltó mélykék, kerek szeme! Bundája félhosszú és selymes. A perzsa macskával ellentétben a birman macska csak kevés aljszőrzettel rendelkezik.
+
 
 
 
