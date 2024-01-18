@@ -47,6 +47,10 @@ Rövid, sűrű és könnyen ápolható szőrzete, rövid, kerek feje a rajta ül
 A brit rövidszőrű cicák meglehetősen stabil felépítésűek. Más nagyobb termetű macskafajtákhoz hasonlatosan lassabban növekszenek. Általánosságban elmondhatjuk, hogy egy brit rövidszőrű macska harmadik életévéig nem lesz felnőtt. Akkor azután a nőstények max. 5, míg a hímek max. 7 kg-ot nyomnak. Cserében a brit rövidszőrű cica igen hosszú életű. Az esetek többségében jó egészségnek örvendenek és megfelelő tartás és táplálás esetén legalább 15 évig élhetnek.
 
 
+## Szfinx
+
+Jellegzetes kinézetének köszönhetően a Szfinx csupasz macska azonnal felismerhető. Szembeötlő, hogy szinte teljesen hiányzik a bundája, csak kis pihék borítják a bőrét. A Szfinx egy közepes termetű, izmos macska. Szögletes fején nagy, nyitott fülek vannak. Citromalakú nagy szemei ferdén helyezkednek el. Redőzött szinte bármilyen színben előfordulhat, még a foltok is megengedettek. A Szfinx kopasz macska súlya 3,5 kg és 7 kg között mozog. A Szfinx macska élénk és ragaszkodó. Nagyon kötődnek a gazdájukhoz és más háziállatokkal szemben is többnyire barátságosak, csak ritkán viselkednek agresszíven. Nem lehet őket hosszan egyedül hagyni otthon, mivel hamar unatkozni kezdenek. A Szfinx macskákat például intelligenciafejlesztő játékokkal lehet mentálisan lekötni. Fajtatársaival közös szocializáció szintén jó lehetőség a macskák lefoglalására. A Szfinx macskákat pórázon is lehet vezetni, ám figyelembe kell venni az időjárási körülményeket. Kerülje a sétákat nagy hidegben illetve erős napsütésben.
+
 
 
 
