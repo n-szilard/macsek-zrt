@@ -33,6 +33,12 @@ Félhosszú szőre túlnyomórészt fehér és csak olyan kiálló testrészek, 
 
 Ez a mintázat a fajta egyik legfontosabb jegye. Mindazonáltal nem minden point mintázatú cicus, aki fehér mancsokkal és félhosszú bundával rendelkezik, burmai szent templommacska! Testének enyhén nyújtottnak kell lennie, ennek ellenére izmos és közepesen nehéz, melyhez viszonylag rövid, tömzsi lábak társulnak. Farka bozontos, feje erőteljes hangsúlyos állal. Különösen figyelemre méltó mélykék, kerek szeme! Bundája félhosszú és selymes. A perzsa macskával ellentétben a birman macska csak kevés aljszőrzettel rendelkezik.
 
+## Perzsa macska
+
+A hosszú, vékonyszálú szőr, vastag aljszőrzettel a perzsa macska különlegessége. Nem minden hosszú szőrű macska perzsa cica , ennél sokkal több feltételnek kell teljesülnie ahhoz, hogy a fajta standardjainak megfeleljen. A perzsa macska küllemét három különböző tenyésztő egyesület határozza meg, azonban mind különböző tulajdonságokat részesítenek előnyben. Általánosságban elmondható, hogy a perzsáknak középméretűnek, vagy nagy méretűnek kell lenniük. A kandúrok akár 7 kilósak, a nőstények pedig akár 6 kilósak is lehetnek. Testüket, rövid, vaskos lábak tartják. Az ujjak közötti szőrcsomók kívánatosak.
+
+A hosszú szőr mellett a fej is a fajta jellegzetessége: Kerek, széles koponya, kerek szőrcsomós fülek és nagyon rövid orr jellemzi. Az orrnyeregnek a szemek között kell végződnie, az úgynevezett Stopp pedig nem helyezkedhet el sem a felső szemhéj felett, sem pedig az alsó szemhéj alatt. Ez nagyon karakteres megjelenést kölcsönöznek a perzsamacskának, de egészségügyi problémákhoz vezethet, ezért éles kritikával illetik az extrém perzsa cica tenyésztőket. De erről kicsit később. Vannak olyan tenyésztők, akik emiatt a régebbi tenyésztési standardot részesítik előnyben, amikor még a hosszú orr volt az előírás. Mindenesetre a mai standard ezzel nem ért egyet.
+
 
 
 
