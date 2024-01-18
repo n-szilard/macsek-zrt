@@ -40,6 +40,12 @@ A hosszú, vékonyszálú szőr, vastag aljszőrzettel a perzsa macska különle
 A hosszú szőr mellett a fej is a fajta jellegzetessége: Kerek, széles koponya, kerek szőrcsomós fülek és nagyon rövid orr jellemzi. Az orrnyeregnek a szemek között kell végződnie, az úgynevezett Stopp pedig nem helyezkedhet el sem a felső szemhéj felett, sem pedig az alsó szemhéj alatt. Ez nagyon karakteres megjelenést kölcsönöznek a perzsamacskának, de egészségügyi problémákhoz vezethet, ezért éles kritikával illetik az extrém perzsa cica tenyésztőket. De erről kicsit később. Vannak olyan tenyésztők, akik emiatt a régebbi tenyésztési standardot részesítik előnyben, amikor még a hosszú orr volt az előírás. Mindenesetre a mai standard ezzel nem ért egyet.
 
 
+## Brit rövidszőrű 
+
+Rövid, sűrű és könnyen ápolható szőrzete, rövid, kerek feje a rajta ülő nagy, sárga szemekkel, és stabil, zömök testalkata tisztára teddy macis… Egy olyan cica, amit az ember rögtön meg szeretne ölelgetni. Egyáltalán nem csoda, hogy a brit rövidszőrű cica (british shorthair) időközben az egyik legkedveltebb macskafajtává vált.
+
+A brit rövidszőrű cicák meglehetősen stabil felépítésűek. Más nagyobb termetű macskafajtákhoz hasonlatosan lassabban növekszenek. Általánosságban elmondhatjuk, hogy egy brit rövidszőrű macska harmadik életévéig nem lesz felnőtt. Akkor azután a nőstények max. 5, míg a hímek max. 7 kg-ot nyomnak. Cserében a brit rövidszőrű cica igen hosszú életű. Az esetek többségében jó egészségnek örvendenek és megfelelő tartás és táplálás esetén legalább 15 évig élhetnek.
+
 
 
 
