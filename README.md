@@ -6,6 +6,7 @@ A főoldalon bemutatjuk, hogy mivel foglalkozunk, milyen szolgálatásaink vanna
 ## Szolgáltatásaink:
 Lesz egy szolgáltatásaink oldal ahol ki lehet választani a szolgáltatást és ez külön oldalra vezetne amely csak az adott szolgálatásról szól (részletes leírás illetve árak szerepelnének)
 
+
 - macska kozmetika
 - cicamegőrzés
 - menhely
