@@ -27,9 +27,21 @@
     background-color: black;
     color: white;
     border-radius: 30%;
+    transition-duration: 1s;
 }
+
+.menupont:hover{
+    padding: 2.5% ;
+    font-size: larger;
+    background-color: white;
+    color:black;
+}
+
 
 body{
     background: rgb(255,255,255);
 background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(205,202,202,1) 100%);
 }
+
+
+
