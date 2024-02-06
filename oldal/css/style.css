@@ -1,0 +1,25 @@
+.menu{
+    display: flex;
+}
+
+
+.gombokdiv{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logodiv{
+    width: 50%;
+}
+
+.logo{
+    float: right;
+    height: 4.5em;
+}
+
+.menupont{
+    padding: 2%;
+}
