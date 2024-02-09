@@ -23,18 +23,20 @@ body{
 
 .logo{
     float: right;
-    height: 6em;
+    height: 8.2em;
 }
 
 .menupont{
+    margin-top: 1.5%;
     text-align: center;
-    width: 8em;
+    width: 10em;
     padding: 2%;
-    padding-top: 3.5%;
+    padding-top: 20%;
     background-color: black;
     color: white;
     border-radius: 15%;
     box-shadow: 2px 2px 10px rgb(77, 77, 77);
+    height: 3em;
 }
 
 .menupont > a{
@@ -44,12 +46,26 @@ body{
     transition-duration: 1s;
 }
 
+
+.gombokdiv > a{
+    color: white;
+    text-decoration: none;
+    border-radius: 30%;
+    transition-duration: 1s;
+    
+}
+
+
 .menupont:hover{
     padding: 2.5% ;
-    font-size: larger;
     color: black;
     background-color: rgb(145, 145, 145);
+    padding-top: 20%;
     
+}
+
+.gombokdiv > a:hover{
+    font-size: larger;
 }
 
 
