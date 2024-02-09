@@ -1,3 +1,43 @@
 .oldal{
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(205,202,202,1) 100%);
+    margin-left: 11%;
+    margin-right: 11%;
+   
+     height: 37rem;
+    border: solid 1px black;
+    border-top: solid 1px rgb(207, 203, 203);
+    
+   
     text-align: center;
+    
+
+
+
+
 }
+ 
+.oldal > ol{
+    margin: 0 auto;
+    
+    
+}
+ 
+.oldal > h1{
+    padding-left: 1em;
+}
+
+
+
+#jobbkep{
+
+display: inline;
+
+float: right;
+width: 20%;
+}
+
+ #balkep{
+    display: inline;
+    float: left;
+    width: 20%;
+ }
