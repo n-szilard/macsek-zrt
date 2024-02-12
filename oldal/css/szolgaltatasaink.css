@@ -1,0 +1,39 @@
+.oldal{
+    background: radial-gradient(circle, white 0%, rgb(179, 178, 178) 100%);
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: solid 3px black;
+    border-top: solid 1px rgb(207, 203, 203);
+}
+
+
+.oldal > div{
+    display: flex;
+    justify-content:space-around;
+    margin-top:  2em;
+    text-align: center;
+}
+
+.oldal > div > div > img{
+    width: 15em;
+    height: 15em;
+}
+
+h1{
+    text-decoration: blueviolet underline 0.1em;
+    width: 8em;
+}
+
+.oldal a > div{
+    padding: 0.1em;
+    border-radius: 16px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    width: 7em;
+    margin: 0 auto;
+    margin-top: 2em;
+    font-size: 2em;
+}
