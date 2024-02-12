@@ -1,0 +1,54 @@
+.tartalom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    row-gap: 32px;
+    padding: 16px;
+}
+
+.kartya {
+    border: 1px solid black;
+    width: 22%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: white;
+    border-radius: 16px;
+}
+
+.gomb {
+    width: 50%;
+    padding: 16px;
+    border-radius: 16px;
+    background-color: #51B755;
+    cursor: pointer;
+}
+
+.kep{
+    width: 75%;
+}
+
+.kep > img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+@media only screen and (max-width: 1000px) {
+    .kartya {
+        width: 30%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .kartya {
+        width: 45%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .kartya {
+        width: 100%;
+    }
+}
