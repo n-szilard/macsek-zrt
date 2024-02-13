@@ -27,7 +27,7 @@ body{
 }
 
 .menupont{
-    margin-top: 1.5%;
+    margin-top: 10%;
     text-align: center;
     width: 8em;
     padding: 2%;
@@ -74,5 +74,13 @@ body{
 background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(205,202,202,1) 100%);
 }
 
+@media only screen and (max-width: 600px){
+    .menupont{
+        display: none;
+    }
 
-
+    .logo{
+        width: 80%;
+        height: 100%;
+    }
+}
