@@ -37,3 +37,59 @@ h1{
     margin-top: 2em;
     font-size: 2em;
 }
+
+.oldal a{
+    text-decoration: none;
+}
+
+.oldal a > div{
+    transition-duration: 0.3s;
+    transition-delay: 0.2;
+}
+
+.oldal a > div:hover{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    font-size: 220%;
+}
+
+@media only screen and (max-width: 1000px){
+
+    .oldal > div{
+        flex-wrap: wrap;
+    }
+
+    .oldal > div > div > img{
+        width: 11em;
+        height: 11em;
+    }
+    
+    .oldal a > div{
+        margin-top: 0em;
+    }
+
+    h1{
+        text-decoration: blueviolet underline 0.2em;
+    }
+
+}
+
+@media only screen and (max-width: 555px){
+    .oldal > div > div > img{
+        width: 80%;
+        height: 90%;
+    }
+
+    h1{
+        font-size: 1em;
+        margin:  0px auto;
+    }
+
+    .oldal a > div{
+        margin-top: 8%;
+        width: 70%;
+        height: 30%;
+        font-size: 80%;
+    }
+}
