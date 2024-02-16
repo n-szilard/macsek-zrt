@@ -20,7 +20,7 @@ h1{
     width: 40%;
     font-size: 150%;
     color: rgb(7, 73, 90);
-    text-shadow: 0.1rem 0.1rem 1rem purple;
+    
     
 
 }
@@ -30,3 +30,53 @@ width: 80%;
 float: right;
 
 }
+
+
+
+#balkepes{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    align-items: center;    
+    gap: 25%;
+    border: 0.2rem solid black;
+    padding: 5%;
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(205,202,202,1) 100%);
+    
+
+
+    
+}
+#balkepes> div > img{
+    width: 600%;
+    margin-left:50% ;
+    border: 0.15rem solid rgb(107, 9, 110);
+    
+    
+}
+
+#balkepes > div >p {
+
+
+
+        width: 70%;
+        float: right;
+        font-size: 100%;
+        color: rgb(7, 73, 90);
+        margin-right: 5%;
+        
+        
+        
+}
+
+h2{
+    text-align: center;
+    text-shadow: 1px 1px 40px rgba(255, 123, 0, 0.534);
+    
+
+}
+
+
+
+
+
