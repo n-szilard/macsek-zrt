@@ -33,12 +33,12 @@ float: right;
 
 
 
-#balkepes{
+.balkepes{
     display: flex;
     justify-content: center;
     margin: 5%;
     align-items: center;    
-    gap: 25%;
+    gap: 30%;
     border: 0.2rem solid black;
     padding: 5%;
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(205,202,202,1) 100%);
@@ -47,7 +47,7 @@ float: right;
 
     
 }
-#balkepes> div > img{
+.balkepes> div > img{
     width: 600%;
     margin-left:50% ;
     border: 0.15rem solid rgb(107, 9, 110);
@@ -55,7 +55,7 @@ float: right;
     
 }
 
-#balkepes > div >p {
+.balkepes > div >p {
 
 
 
@@ -75,6 +75,42 @@ h2{
     
 
 }
+
+
+
+
+.jobbkepes{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    align-items: center;    
+    gap: 25%;
+    border: 0.2rem solid black;
+    padding: 5%;
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(205,202,202,1) 100%);
+}
+
+.jobbkepes> div > img{
+    width: 400%;
+    float: right;
+    border: 0.15rem solid rgb(107, 9, 110);
+    
+    
+}
+.jobbkepes > div >p {
+
+
+
+    width: 70%;
+    float: left;
+    font-size: 100%;
+    color: rgb(7, 73, 90);
+    margin-right: 5%;
+    
+    
+    
+}
+
 
 
 
