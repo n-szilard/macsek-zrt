@@ -1,5 +1,8 @@
 # Macsek ZRT
 
+## Pages oldal
+https://n-szilard.github.io/macsek-zrt/oldal/html/index.html
+
 ## Főoldal
 A főoldalon bemutatjuk, hogy mivel foglalkozunk, milyen szolgálatásaink vannak, egy összefoglaló oldal lesz. Egy macskák oldal is lesz, amelyben bemutatunk 10 féle macskát (Ragdoll,Maine Coon, Skót lógófülű, Orosz kék, Sziámi, Burmai, Perzsa, Brit rövidszörű, Szfinx)
 
