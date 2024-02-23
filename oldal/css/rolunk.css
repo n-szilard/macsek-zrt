@@ -1,11 +1,20 @@
+html {
+    font-family: "Roboto", sans-serif;
+    padding-bottom: 64px;
+}
+
 .oldal{
     background: radial-gradient(circle, white 0%, rgb(179, 178, 178) 100%);
     margin-left: 11%;
     margin-right: 11%;
     margin-top: 0px;
     margin-bottom: 0px;
-    border: solid 3px black;
-    border-top: solid 1px rgb(207, 203, 203);
+    margin-top: 64px;
+    border-radius: 32px;
+    background: #e0e0e0;
+    box-shadow:  12px 12px 24px #bebebe,
+             -12px -12px 24px #ffffff;
+    overflow: hidden;
 }
 
 .oldal > p{
@@ -33,9 +42,17 @@
 .kep > div > img{
     width: 15em;
     height: 15em;
-    border: 2px solid black;
-    border-radius: 0%;
-    box-shadow: 5px 5px 10px rgb(77, 77, 77);
+    border-radius: 32px;
+    background: #e0e0e0;
+    box-shadow:  12px 12px 24px #bebebe,
+             -12px -12px 24px #ffffff;
+    overflow: hidden;
+}
+
+.kitten {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media screen and (max-width: 1000px) {

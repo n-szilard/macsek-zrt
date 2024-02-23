@@ -1,3 +1,7 @@
+html {
+    font-family: "Roboto", sans-serif;
+}
+
 .oldal{
     background: radial-gradient(circle, white 0%, rgb(179, 178, 178) 100%);
     margin-left: 28%;
