@@ -15,14 +15,15 @@ html {
              -12px -12px 24px #ffffff;
     overflow: hidden;
     margin-top: 64px;
+    padding-top: 32px;
 }
- 
+
 .oldal > ol{
     margin: 0 auto;
     padding-left: 10em;
     padding-right: 10em;
 }
- 
+
 .oldal > h1{
     margin: 0 auto;
 }
@@ -41,7 +42,7 @@ html {
 
 
 @media only screen and (max-width: 600px) {
-  .oldal > ol{    
+  .oldal > ol{
       padding-left: 2em;
       padding-right: 2em;
   }
@@ -51,7 +52,7 @@ html {
   }
 }
 @media only screen and (max-width: 1000px) {
-  
+
   .oldal > ol{
     padding-left: 4em;
     padding-right: 4em;
@@ -68,9 +69,8 @@ html {
     padding-right: 4em;
   }
 
-  .oldal{ 
+  .oldal{
     height: 70rem;
     border-bottom: solid 1px rgb(207, 203, 203);
   }
 }
- 

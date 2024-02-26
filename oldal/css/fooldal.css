@@ -25,11 +25,6 @@ h1 {
     color: rgb(7, 73, 90);
 }
 
-#bemutatkozas>div>img {
-    width: 80%;
-    float: right;
-}
-
 .tartalom {
     display: flex;
     align-items: center;
@@ -85,12 +80,24 @@ h2 {
 @media screen and (max-width: 1000px) {
     .kepes {
         flex-direction: column;
+        width: 70%;
     }
     .keptarolo {
         width: 80%;
     }
 
     .szovegtarolo {
+        width: 80%;
+    }
+
+    #bemutatkozas {
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+        row-gap: 32px;
+    }
+
+    #bemutatkozas div {
         width: 80%;
     }
 }
