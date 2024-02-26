@@ -1,3 +1,31 @@
 html {
     font-family: "Roboto", sans-serif;
 }
+
+h2{
+    font-size: xx-large;
+}
+
+img{
+    border-radius: 32px;
+    border: none;
+}
+
+.gomb{
+    text-align: center;
+    margin-top: 15%;
+    font-size: larger;
+    border-radius: 200px;
+    background-color: #FF8686;
+    color: white;
+}
+
+
+@media only screen and (max-width: 1000px){
+    .gomb{
+        margin: 0 auto;
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+
+}
