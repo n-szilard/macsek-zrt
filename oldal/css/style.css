@@ -11,6 +11,7 @@ body{
     background: rgb(130,68,178);
     background: linear-gradient(90deg, rgba(130,68,178,1) 0%, rgba(255,255,255,1) 100%);
     margin-top: 0px;
+    justify-content: space-between;
 }
 
 .gombokdiv{
@@ -21,8 +22,11 @@ body{
     justify-content: space-around;
 }
 
-.logodiv{
-    width: 50%;
+.logodiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 16px;
 }
 
 .logo{
@@ -75,16 +79,40 @@ body{
 
 body{
     background: rgb(255,255,255);
-background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(205,202,202,1) 100%);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(205,202,202,1) 100%);
+}
+
+.burger {
+    display: none;
 }
 
 @media only screen and (max-width: 1000px){
-    .menupont{
+    .gombokdiv{
         display: none;
     }
 
-    .logo{
-        width: 80%;
+    .burger {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 16px;
+        flex-wrap: wrap;
+    }
+
+    .burger_icon {
+        height: 60px;
+    }
+
+    .burger_icon > img {
+        width: 100%;
         height: 100%;
+        object-fit: fill;
+    }
+
+    .burger_menu {
+        display: flex;
+        width: 100%;
+        background-color: black;
+        height: 300px;
     }
 }
