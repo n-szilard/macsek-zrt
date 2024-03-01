@@ -20,6 +20,10 @@
                 <a href="erdekessegek.html"><div class="menupont">Érdekességek</div></a>
                 <a href="rolunk.html"><div class="menupont">Rólunk</div></a>
             </div>
+            <div class="kocsidiv">
+                <img src="../../Kepek/logo/Rácsos kocsi.png">
+                <span class="szamlalo" id="szamlalo">0</span>
+            </div>
             <div class="logodiv">
                 <a href="index.html"><img class="logo" src="../../Kepek/logo/logo.png" alt=""></a> 
             </div>
@@ -126,5 +130,17 @@
             </div>
         </div>
     </div>
+
+    <script>
+        let clicks = Number(document.getElementById("szamlalo").innerHTML);
+        const gombok = document.querySelectorAll(".gomb")
+
+        gombok.forEach(gomb => {
+            gomb.addEventListener('click', function handleClick(event) {
+                clicks++;
+                document.getElementById("szamlalo").innerHTML = clicks; 
+            });
+        }); 
+    </script>
 </body>
 </html>
