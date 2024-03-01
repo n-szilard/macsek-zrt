@@ -112,11 +112,19 @@
                   <li>Bővített Szolgáltatások és Díjak: Amennyiben speciális igényeid vannak, például gyógyszeradagolás, speciális táplálkozás vagy extra játék, érdemes előre egyeztetni a szállásadóval. Ezen extra szolgáltatások díjai és részletei előre tisztázhatók.</li>
                   <li>Elérhetőség és Kommunikáció: Fontos, hogy mindvégig fenntartsd a kapcsolatot a szállásadóval, így szükség esetén könnyen megoszthatod az aktuális információkat a cicád egészségéről és jólétéről.</li>
                 </ol>
-                <div class="gomb">
-                    Érdeklődöm
-                </div>
+                <button onclick="nemmukodikfunkc()" class="gomb">
+                    Érdeklődöm!
+                </button>
             </div>
         </div>
     </div>
+    <script>
+        function nemmukodikfunkc() {
+            let popup = confirm("\nA macska rúgja meg!\n\nEz az oldal jelenleg nem elérhető!\nKérjük próbálja újra később.")
+            if(popup == false){
+                alert("\nItt vagyok a házad előtt")
+            }
+        }
+    </script>
 </body>
 </html>

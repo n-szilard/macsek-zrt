@@ -160,8 +160,11 @@
     </div>
     <script>
         function nemmukodikfunkc() {
-            alert("\nA macska rúgja meg!\n\nEz az oldal jelenleg nem elérhető!\nKérjük próbálja újra később.")
+            let popup = confirm("\nA macska rúgja meg!\n\nEz az oldal jelenleg nem elérhető!\nKérjük próbálja újra később.")
+            if(popup == false){
+                alert("\nItt vagyok a házad előtt")
+            }
         }
-        </script>
+    </script>
 </body>
 </html>

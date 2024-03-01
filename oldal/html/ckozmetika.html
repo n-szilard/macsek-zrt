@@ -111,11 +111,19 @@
                     <li>Időpont és Helyszín: A fizetés a szolgáltatások után történik. Fontos, hogy előzetesen időpontot foglalj, és a cica kozmetikai stúdió címét előre egyeztesd a kozmetikussal. Az időpontok betartása segít a zavartalan és hatékony munkában.</li>
                     <li>Kijárás és Hazaérkezés: Amint a kozmetikai folyamat befejeződik, a cica általában azonnal hazatérhet veled. Minden fontos információt megosztunk veled, amelyet a cicád gondozásához szükséges lehet. Az esetleges utókezelési tanácsokat is megbeszéljük, hogy a cica kényelmes és boldog legyen otthon is.</li>
                 </ol>
-                <div class="gomb">
-                    Érdeklődöm
-                </div>
+                <button onclick="nemmukodikfunkc()" class="gomb">
+                    Érdeklődöm!
+                </button>
             </div>
         </div>
     </div>
+    <script>
+        function nemmukodikfunkc() {
+            let popup = confirm("\nA macska rúgja meg!\n\nEz az oldal jelenleg nem elérhető!\nKérjük próbálja újra később.")
+            if(popup == false){
+                alert("\nItt vagyok a házad előtt")
+            }
+        }
+    </script>
 </body>
 </html> 

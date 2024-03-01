@@ -114,11 +114,22 @@
                     <li>Díjak és További Információk: Az árak és díjak előre egyeztetettek, és a sétáltatóval történő megbeszélés során tisztázhatod a részleteket. A sétáltatóval való konzultáció során érdemes megbeszélni a cica szokásait, preferenciáit és egyéb fontos információkat.</li>
                     <li>Beváltások és Bérletek: Amennyiben rendszeres sétáltatásra van szükséged, beszélj a sétáltatóval a lehetőségekről, például havonta vagy hetente visszatérő bérletekről, amelyek kedvezményeket is tartalmazhatnak.</li>
                 </ol>
-                <div class="gomb">
-                    Érdeklődöm
-                </div>
+                <button onclick="nemmukodikfunkc()" class="gomb">
+                    Érdeklődöm!
+                </button>
             </div>
         </div>
     </div>
+    <script>
+        function nemmukodikfunkc() {
+            let popup = confirm("\nA macska rúgja meg!\n\nEz az oldal jelenleg nem elérhető!\nKérjük próbálja újra később.")
+            if(popup == false){
+                alert("\nItt vagyok a házad előtt")
+            }
+            else{
+                alert("\nbocsika")
+            }
+        }
+    </script>
 </body>
 </html>
