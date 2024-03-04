@@ -40,6 +40,21 @@
             </div>
         </div>
 
+        <div class="burger_menu" id="burger_menu">
+            <a href="szolgaltatasaink.html" class="burger_menupont">
+                <div>Szolgáltatások</div>
+            </a>
+            <a href="webshop.html" class="burger_menupont">
+                <div>Webshop</div>
+            </a>
+            <a href="erdekessegek.html" class="burger_menupont">
+                <div>Érdekességek</div>
+            </a>
+            <a href="rolunk.html" class="burger_menupont">
+                <div>Rólunk</div>
+            </a>
+        </div>
+
         <h1>Üdvözöljük!</h1>
 
         <br>
@@ -217,6 +232,21 @@
             </div>
         </div>
     </div>
+
+    <script>
+        const burgerGomb = document.querySelector(".burger");
+        let menuLatszik = false;
+
+        burgerGomb.addEventListener("click", function handleClick(event) {
+            if (menuLatszik) {
+                menuLatszik = false;
+                document.getElementById("burger_menu").style.display = "none";
+            } else {
+                menuLatszik = true;
+                document.getElementById("burger_menu").style.display = "flex";
+            }
+        });
+    </script>
 </body>
 
 </html>
