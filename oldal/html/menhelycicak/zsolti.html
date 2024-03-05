@@ -41,13 +41,28 @@
             </div>
         </div>
 
+        <div class="burger_menu" id="burger_menu">
+            <a href="../szolgaltatasaink.html" class="burger_menupont">
+                <div>Szolgáltatások</div>
+            </a>
+            <a href="../webshop.html" class="burger_menupont">
+                <div>Webshop</div>
+            </a>
+            <a href="../erdekessegek.html" class="burger_menupont">
+                <div>Érdekességek</div>
+            </a>
+            <a href="../rolunk.html" class="burger_menupont">
+                <div>Rólunk</div>
+            </a>
+        </div>
+
         
 
         <br>
         <br>
-        <br>
+        
         <h1>Zsolti története</h1>
-        <br>
+        
         <br>
 
         <p>Zsolti egy kedves, de túlsúlyos macska volt, aki boldogan élt egy családdal egy kis vidéki házban. Szerette az otthon melegségét és a család szeretetét. De sajnos, az évek során Zsolti súlya kezdett növekedni, mivel imádta a finom falatokat, amiket a családja mindig készített neki.<br><br>
@@ -58,6 +73,26 @@
             Egy nap a család úgy döntött, hogy Zsolti egészségéért cselekednek. Úgy érezték, hogy talán egy másik család, ahol jobban tudnak gondoskodni róla, jobb hely lesz számára. Így hát elhatározták, hogy elviszik egy állatmenhelyre, ahol reménykedtek, hogy találnak neki egy új, gondoskodó családot.</p>
 
 
+            <div class="kepek">
+                <img src="../../../Kepek/macskak/Zsolti/Vicces Állatok.jpg" alt="" id="bal">
+                <img src="../../../Kepek/macskak/Zsolti/zsoltimérés.png" alt="" id="jobb">
+            </div>
+
+
+            <script>
+                const burgerGomb = document.querySelector(".burger");
+                let menuLatszik = false;
+        
+                burgerGomb.addEventListener("click", function handleClick(event) {
+                    if (menuLatszik) {
+                        menuLatszik = false;
+                        document.getElementById("burger_menu").style.display = "none";
+                    } else {
+                        menuLatszik = true;
+                        document.getElementById("burger_menu").style.display = "flex";
+                    }
+                });
+            </script>
 
 </body>
 
