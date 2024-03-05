@@ -7,24 +7,26 @@ h1{
     text-align: center;
 }
 
-#bal{
-    float: left;
-}
-#jobb{
-    float: right;
-}
 
-div > img{
-    width: 40%;
-    height: 18rem;
+
+.keptarolo > img{
+    width: 100%;
+    height: 100%;
     margin-right: 5%;
     margin-left: 5%;
     border-radius: 30px;
+    object-fit: fill;
     
 
 }
+.keptarolo{
+    width: 40%;
+}
+
+
 .kepek{
     display: flex;
+    justify-content: space-around;
 }
 
 @media screen and (max-width: 1000px)  {
