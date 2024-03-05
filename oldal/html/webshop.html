@@ -20,14 +20,36 @@
                 <a href="erdekessegek.html"><div class="menupont">Érdekességek</div></a>
                 <a href="rolunk.html"><div class="menupont">Rólunk</div></a>
             </div>
+            <div class="burger">
+                <div class="burger_icon">
+                    <img src="../../Kepek/burger_icon.png">
+                </div>
+            </div>
             <div class="kocsidiv">
                 <img src="../../Kepek/logo/Rácsos kocsi.png">
                 <span class="szamlalo" id="szamlalo">0</span>
             </div>
+
             <div class="logodiv">
                 <a href="index.html"><img class="logo" src="../../Kepek/logo/logo.png" alt=""></a> 
             </div>
         </div>
+
+        <div class="burger_menu" id="burger_menu">
+            <a href="szolgaltatasaink.html" class="burger_menupont">
+                <div>Szolgáltatások</div>
+            </a>
+            <a href="webshop.html" class="burger_menupont">
+                <div>Webshop</div>
+            </a>
+            <a href="erdekessegek.html" class="burger_menupont">
+                <div>Érdekességek</div>
+            </a>
+            <a href="rolunk.html" class="burger_menupont">
+                <div>Rólunk</div>
+            </a>
+        </div>
+
         <div class="tartalom">
             <div class="kartya">
                 <div class="kep"><img src="../../Kepek/webshop/bagoly.jpg" alt=""></div>
@@ -141,6 +163,19 @@
                 document.getElementById("szamlalo").innerHTML = clicks; 
             });
         }); 
+
+        const burgerGomb = document.querySelector(".burger");
+        let menuLatszik = false;
+
+        burgerGomb.addEventListener("click", function handleClick(event) {
+            if (menuLatszik) {
+                menuLatszik = false;
+                document.getElementById("burger_menu").style.display = "none";
+            } else {
+                menuLatszik = true;
+                document.getElementById("burger_menu").style.display = "flex";
+            }
+        });
     </script>
 </body>
 </html>

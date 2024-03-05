@@ -79,10 +79,6 @@ a{
     .kartya {
         width: 30%;
     }
-
-    .kocsidiv {
-        display: none;
-    }
 }
 
 @media only screen and (max-width: 800px) {
@@ -94,5 +90,9 @@ a{
 @media only screen and (max-width: 600px) {
     .kartya {
         width: 100%;
+    }
+
+    .kocsidiv > img {
+        display: none;
     }
 }
