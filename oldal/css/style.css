@@ -127,6 +127,8 @@ body{
         gap: 16px;
         padding-top: 16px;
         padding-bottom: 16px;
+        border-bottom: 4px solid white;
+        border-top: 4px solid white;
     }
 
     .burger_menupont {
