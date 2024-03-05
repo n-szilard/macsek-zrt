@@ -6,3 +6,34 @@ p{
 h1{
     text-align: center;
 }
+
+#bal{
+    float: left;
+}
+#jobb{
+    float: right;
+}
+
+div > img{
+    width: 40%;
+    height: 18rem;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius: 30px;
+    
+
+}
+.kepek{
+    display: flex;
+}
+
+@media screen and (max-width: 1000px)  {
+    .kepek{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap:4rem;
+    }
+
+
+}
