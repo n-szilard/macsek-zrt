@@ -40,7 +40,10 @@ h1{
         align-items: center;
         gap:4rem;
     }
-
+    p{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
     .keptarolo {
         width: 80%;
     }
