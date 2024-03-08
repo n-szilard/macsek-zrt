@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Macsek ZRT</title>
+    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="../../css/menhelycicak/menhelycicak.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <div class="menu">
+            <div class="gombokdiv">
+                <a href="../szolgaltatasaink.html">
+                    <div class="menupont">Szolgáltatások</div>
+                </a>
+                <a href="../webshop.html">
+                    <div class="menupont">Webshop</div>
+                </a>
+                <a href="../erdekessegek.html">
+                    <div class="menupont">Érdekességek</div>
+                </a>
+                <a href="../rolunk.html">
+                    <div class="menupont">Rólunk</div>
+                </a>
+            </div>
+            <div class="burger">
+                <div class="burger_icon">
+                    <img src="../../../Kepek/burger_icon.png">
+                </div>
+            </div>
+            <div class="logodiv">
+                <a href="../index.html"><img class="logo" src="../../../Kepek/logo/logo.png" alt=""></a>
+            </div>
+        </div>
+
+        <div class="burger_menu" id="burger_menu">
+            <a href="../szolgaltatasaink.html" class="burger_menupont">
+                <div>Szolgáltatások</div>
+            </a>
+            <a href="../webshop.html" class="burger_menupont">
+                <div>Webshop</div>
+            </a>
+            <a href="../erdekessegek.html" class="burger_menupont">
+                <div>Érdekességek</div>
+            </a>
+            <a href="../rolunk.html" class="burger_menupont">
+                <div>Rólunk</div>
+            </a>
+        </div>
+
+        
+
+        <br>
+        <br>
+        
+        <h1>Bendegúz története</h1>
+        
+        <br>
+
+        <p>Bendegúz, a nagy és erős macska, mindig is büszkén viselte izmos alakját és különleges képességeit. A környék macskái tisztelettel néztek fel rá, miközben ő magabiztosan járta az utcákat és udvarokat. Azonban egy sorsfordító esemény megváltoztatta életét, amikor egy nap elveszítette otthonát, és menhelyre került.<br><br>
+
+            A menhely meglehetősen más volt, mint az otthon, ahol Bendegúz eddig élt. A zajos környezet és az ismeretlen állatok között érthető módon nehéz volt neki megtalálni a helyét. Először is, nem értette, miért kellett itt lennie, hiszen úgy érezte, mindig is gondoskodott magáról.
+            <br><br>
+            
+            Azonban Bendegúz hamar rájött, hogy sok macska és kutya van a menhelyen, akik nem voltak olyan szerencsések, mint ő. Sokan közülük sérültek voltak vagy elhagyatva érkeztek ide, és egy otthonra vágytak, ahol szeretetben és gondoskodásban részesülhetnek. Ekkor döntött úgy, hogy segít, amennyire csak tud. Bendegúz azonnal belekezdett a menhelyi életbe való alkalmazkodásba. Nemcsak az új környezetet fogadta el, hanem megpróbált segíteni a többi kisállaton is, akik hasonló helyzetben voltak. Ő lett a menhely lelkes vezetője, aki mindig vidáman és bátran állt az új kihívások elé. Így Bendegúz, a menhelyen talált otthont, és egy olyan közösségben érezte magát, ahol valóban számítottak rá és az erejére.</p>
+
+
+            <div class="kepek">
+                <div class="keptarolo"><img src="../../../Kepek/macskak/Bendegúz/ccad5600-c833-4ec9-8d71-fd3850c1a815.jpg" alt="" id="bal"></div>
+                <div class="keptarolo"><img src="../../../Kepek/macskak/Bendegúz/5-23-11-4-1-54-52m.jpg" alt="" id="jobb"></div>
+                
+            </div>
+
+        </div>
+
+
+            <script>
+                const burgerGomb = document.querySelector(".burger");
+                let menuLatszik = false;
+        
+                burgerGomb.addEventListener("click", function handleClick(event) {
+                    if (menuLatszik) {
+                        menuLatszik = false;
+                        document.getElementById("burger_menu").style.display = "none";
+                    } else {
+                        menuLatszik = true;
+                        document.getElementById("burger_menu").style.display = "flex";
+                    }
+                });
+            </script>
+
+</body>
+
+</html>
