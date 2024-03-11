@@ -2,14 +2,24 @@ html {
     font-family: "Roboto", sans-serif;
 }
 
+body {
+    padding-bottom: 32px;
+}
+
+.oldal_container {
+    display: flex;
+    justify-content: center;
+}
+
 .oldal{
     background: radial-gradient(circle, white 0%, rgb(179, 178, 178) 100%);
-    margin-left: 28%;
-    margin-right: 28%;
-    margin-top: 0px;
     margin-bottom: 0px;
     border: solid 3px black;
     border-top: solid 1px rgb(207, 203, 203);
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    padding-bottom: 16px;
 }
 
 
@@ -20,7 +30,7 @@ html {
     text-align: center;
 }
 
-.oldal > div > div > img{
+.kep{
     width: 15em;
     height: 15em;
 }
@@ -30,7 +40,7 @@ h1{
     width: 8em;
 }
 
-.oldal a > div{
+.gomb{
     padding: 0.1em;
     border-radius: 16px;
     text-decoration: none;
@@ -40,36 +50,37 @@ h1{
     margin: 0 auto;
     margin-top: 2em;
     font-size: 2em;
-}
-
-.oldal a{
-    text-decoration: none;
-}
-
-.oldal a > div{
     transition-duration: 0.3s;
     transition-delay: 0.2;
 }
 
-.oldal a > div:hover{
+a{
+    text-decoration: none;
+}
+
+.gomb:hover{
     color: black;
     background-color: white;
     border: 1px solid black;
     font-size: 220%;
 }
 
-@media only screen and (max-width: 1100px){
-
-    .oldal > div{
-        flex-wrap: wrap;
+@media only screen and (max-width: 850px){
+    .oldal {
+        width: 70%;
     }
 
-    .oldal > div > div > img{
+    .oldal > div{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .kep{
         width: 11em;
         height: 11em;
     }
     
-    .oldal a > div{
+    .gomb{
         margin-top: 0em;
     }
 
@@ -79,7 +90,8 @@ h1{
 
 }
 
-@media only screen and (max-width: 555px){
+/* @media only screen and (max-width: 555px){
+    
     .oldal > div > div > img{
         width: 80%;
         height: 90%;
@@ -103,4 +115,4 @@ h1{
         border: 1px solid black;
         font-size: 100%;
     }
-}
+} */
