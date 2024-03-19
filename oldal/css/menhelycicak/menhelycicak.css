@@ -1,5 +1,5 @@
 body {
-    padding-bottom: 32px;
+    padding-bottom: 0px;
 }
 
 p{
@@ -26,6 +26,42 @@ h1{
 .keptarolo{
     width: 30%;
 }
+
+.lablec{
+    background-color: black;
+    margin-bottom: 0px;
+    margin-top: 5%;
+    padding: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    align-content: center;
+    color: white;
+    background: radial-gradient(circle, white 0%, rgb(179, 178, 178) 100%);
+    border-top: black 2px solid;
+    display: flex;
+}
+
+.lablec > div{
+    color: black;
+    font-size: 120%;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.megrendelesdiv > a{
+    float: right;
+    background-color: rgb(212, 180, 119);
+    padding: 12%;
+    border: 2px solid black;
+    text-decoration: none;
+    color: black;
+    border-radius: 16px;
+    cursor: pointer;
+    margin-top: 55%;
+}
+
 
 
 .kepek{

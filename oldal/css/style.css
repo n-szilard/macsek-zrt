@@ -63,6 +63,10 @@ body{
     
 }
 
+b{
+    text-shadow: 0px 0px 10px rgb(107, 9, 110);
+    font-style: italic;
+}
 
 .menupont:hover{
     padding: 2.5% ;
