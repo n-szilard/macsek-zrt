@@ -40,6 +40,13 @@ html {
     width: 25%;
 }
 
+#ugro{
+width: 20%;
+}
+#lenti{
+  width: 20%;
+}
+
 
 @media only screen and (max-width: 600px) {
   .oldal > ol{
