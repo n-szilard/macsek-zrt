@@ -98,6 +98,36 @@ body{
     display: none;
 }
 
+.folnyilimg{
+    width: 2.5em;
+}
+
+.folnyildiv{
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 2em;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.folnyildiv a{
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.visszanyilimg{
+    width: 3em;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+
+
 @media only screen and (max-width: 1000px){
     .gombokdiv{
         display: none;
