@@ -1,5 +1,6 @@
 html {
     font-family: "Roboto", sans-serif;
+    scroll-behavior: smooth;
 }
 
 body{
@@ -117,7 +118,13 @@ body{
     align-items: center;
     text-align: center;
     justify-content: center;
+    scroll-behavior: smooth;
+}
 
+.visszanyildiv{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0%;
 }
 
 .visszanyilimg{
