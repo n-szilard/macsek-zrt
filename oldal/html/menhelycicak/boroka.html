@@ -9,9 +9,11 @@
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="../../css/menhelycicak/menhelycicak.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    
+
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
@@ -64,48 +66,73 @@
 
         <br>
         <br>
-        
+
         <h1>Boróka története</h1>
-        
+
         <br>
 
-        <p>Boróka, a csendes és visszahúzódó macska már négy éve élt a menhelyen, de mégis egy boldog és elégedett lélek volt. Bár sokan azt hitték volna, hogy ennyi idő után egy macska már elveszti a reményt és a boldogságot, Boróka mindig ragyogott a belső nyugalomtól és boldogságtól.<br><br>
+        <p>Boróka, a csendes és visszahúzódó macska már négy éve élt a menhelyen, de mégis egy boldog és elégedett lélek
+            volt. Bár sokan azt hitték volna, hogy ennyi idő után egy macska már elveszti a reményt és a boldogságot,
+            Boróka mindig ragyogott a belső nyugalomtól és boldogságtól.<br><br>
 
-            A menhely dolgozói mindig is csodálták Boróka hihetetlen türelmét és szeretetét. Még akkor is, ha sosem választották ki örökbefogadásra, ő mindig mosolygott és elbűvölte őket a játékosságával és vidámságával. Ő volt az a macska, aki mindig másokat is boldoggá tudott tenni.
+            A menhely dolgozói mindig is csodálták Boróka hihetetlen türelmét és szeretetét. Még akkor is, ha sosem
+            választották ki örökbefogadásra, ő mindig mosolygott és elbűvölte őket a játékosságával és vidámságával. Ő
+            volt az a macska, aki mindig másokat is boldoggá tudott tenni.
             <br><br>
-            
-            Boróka belátta, hogy a menhely az ő otthona lett, és elfogadta ezt a helyzetet. A barátságok, amiket kialakított más menhelyi lakókkal és az emberekkel, akik mindig szeretetteljesen fogadták, megerősítették benne, hogy boldogságot találhat, még egy ilyen helyen is. Boróka megtanulta, hogy a boldogság belülről fakad, és nem mindig az anyagi körülményektől függ.
+
+            Boróka belátta, hogy a menhely az ő otthona lett, és elfogadta ezt a helyzetet. A barátságok, amiket
+            kialakított más menhelyi lakókkal és az emberekkel, akik mindig szeretetteljesen fogadták, megerősítették
+            benne, hogy boldogságot találhat, még egy ilyen helyen is. Boróka megtanulta, hogy a boldogság belülről
+            fakad, és nem mindig az anyagi körülményektől függ.
+        </p>
 
 
-
-
-
-</p>
-
-
-            <div class="kepek">
-                <div class="keptarolo"><img src="../../../Kepek/macskak/Boroka/pngtree-isolated-cat-on-white-background-png-image_7094927.png" alt="" id="bal"></div>
-                <div class="keptarolo"><img src="../../../Kepek/macskak/Boroka/happy-cat-happy-happy-cat.gif" alt="" id="jobb"></div>
-                
-            </div>
-
+        <div class="kepek">
+            <div class="keptarolo"><img
+                    src="../../../Kepek/macskak/Boroka/pngtree-isolated-cat-on-white-background-png-image_7094927.png"
+                    alt="" id="bal"></div>
+            <div class="keptarolo"><img src="../../../Kepek/macskak/Boroka/happy-cat-happy-happy-cat.gif" alt=""
+                    id="jobb"></div>
         </div>
 
+        <div class="lablec">
+            <div class="labeldiv">
+                <label for="email">A maga email címe:</label>
+                <input type="email" name="email">
+                <br>
+                <br>
+                <label for="tele">A maga telefonszáma:</label>
+                <input type="tel" name="tele" id="">
+                <br><br>
+                <label for="lakcim">A maga lakcíme:</label>
+                <input type="text" name="lakcim" id="">
+            </div>
+            <div class="megrendelesdiv">
+                <a onclick="nemmukodikfunkc()">Megrendelés</a>
+            </div>
+        </div>
 
-            <script>
-                const burgerGomb = document.querySelector(".burger");
-                let menuLatszik = false;
-        
-                burgerGomb.addEventListener("click", function handleClick(event) {
-                    if (menuLatszik) {
-                        menuLatszik = false;
-                        document.getElementById("burger_menu").style.display = "none";
-                    } else {
-                        menuLatszik = true;
-                        document.getElementById("burger_menu").style.display = "flex";
-                    }
-                });
-            </script>
+    </div>
+
+
+    <script>
+        function nemmukodikfunkc() {
+            let popup = alert("\nBoróka úton van a megadott kordinátákra!")
+        }
+
+        const burgerGomb = document.querySelector(".burger");
+        let menuLatszik = false;
+
+        burgerGomb.addEventListener("click", function handleClick(event) {
+            if (menuLatszik) {
+                menuLatszik = false;
+                document.getElementById("burger_menu").style.display = "none";
+            } else {
+                menuLatszik = true;
+                document.getElementById("burger_menu").style.display = "flex";
+            }
+        });
+    </script>
 
 </body>
 
