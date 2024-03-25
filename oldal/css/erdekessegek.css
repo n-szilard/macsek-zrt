@@ -40,11 +40,36 @@ html {
     width: 25%;
 }
 
-#ugro{
-width: 20%;
+#kerdojel{
+  width: 100%;
+  margin:2%;
 }
-#lenti{
-  width: 20%;
+#lincoln{
+  width: 80%;
+  margin:2%;
+}
+#orr{
+  width: 100%;
+  margin:2%;
+}
+#foldrenges{
+  width: 100%;
+  margin:2%;
+}
+#sleep{
+  width: 100%;
+  margin:2%;
+}
+.arnyek{
+  transition: 0.3s;
+  border-radius: 33px;
+    background: #e0e0e0;
+    box-shadow:  12px 12px 24px #bebebe,
+             -12px -12px 24px #ffffff;
+}
+.arnyek:hover{
+    box-shadow:  12px 12px 24px #5e5e5e,
+             -12px -12px 24px #ffffff;
 }
 
 
