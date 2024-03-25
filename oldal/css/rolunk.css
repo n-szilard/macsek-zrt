@@ -3,6 +3,18 @@ html {
     padding-bottom: 64px;
 }
 
+i{
+    font-weight: bold;
+    text-shadow: 0px 0px 30px rgb(107, 9, 110);
+}
+b{
+    text-shadow: 0px 0px 2px rgb(107, 9, 110);
+}
+
+.nev{
+    text-decoration: underline rgb(107, 9, 110);
+}
+
 .oldal{
     background: radial-gradient(circle, white 0%, rgb(179, 178, 178) 100%);
     margin-left: 11%;
