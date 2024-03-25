@@ -121,6 +121,12 @@ body{
     scroll-behavior: smooth;
 }
 
+.visszanyildiv{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0%;
+}
+
 .visszanyilimg{
     width: 3em;
     margin-left: 2%;
