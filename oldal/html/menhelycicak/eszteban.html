@@ -9,9 +9,11 @@
     <link rel="stylesheet" href="../../css/style.css">
     <link rel="stylesheet" href="../../css/menhelycicak/menhelycicak.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    
+
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
@@ -64,46 +66,75 @@
 
         <br>
         <br>
-        
+
         <h1>Esztebán története</h1>
-        
+
         <br>
 
-        <p>Esztebán egykoron a maffia egyik büszke tagja volt, aki a hatalom és az irányítás világában élt. Kifinomult macskaként mindig is az alfa volt a maffia körökben, és a hatalmas városban senki sem merte kihívni őt. Az utcák ura volt, és mindig is az akarata érvényesült.<br><br>
+        <p>Esztebán egykoron a maffia egyik büszke tagja volt, aki a hatalom és az irányítás világában élt. Kifinomult
+            macskaként mindig is az alfa volt a maffia körökben, és a hatalmas városban senki sem merte kihívni őt. Az
+            utcák ura volt, és mindig is az akarata érvényesült.<br><br>
 
-            Ám egy sötét éjszakán a dolgok megváltoztak. Egy baleset következtében Esztebán elvesztette maffiafőnökét, és hirtelen egyedül maradt a veszélyes világban. Megsebesült és elveszettnek érezte magát, úgy döntött, hogy menedéket keres a város peremén lévő menhelyen.
+            Ám egy sötét éjszakán a dolgok megváltoztak. Egy baleset következtében Esztebán elvesztette maffiafőnökét,
+            és hirtelen egyedül maradt a veszélyes világban. Megsebesült és elveszettnek érezte magát, úgy döntött, hogy
+            menedéket keres a város peremén lévő menhelyen.
             <br><br>
-            
-            A menhelyen Esztebán teljesen más környezetbe került. Ahol korábban az erőszak és az uralom uralkodott, most a szeretet és a gondoskodás volt jelen. Lassan, de biztosan Esztebán megértette, hogy a maffia világa nem az, amit valóban keresett az életben. Tudta, hogy új életet kell kezdenie, és meg kell tanulnia szeretni és elfogadni másokat.</p>
+
+            A menhelyen Esztebán teljesen más környezetbe került. Ahol korábban az erőszak és az uralom uralkodott, most
+            a szeretet és a gondoskodás volt jelen. Lassan, de biztosan Esztebán megértette, hogy a maffia világa nem
+            az, amit valóban keresett az életben. Tudta, hogy új életet kell kezdenie, és meg kell tanulnia szeretni és
+            elfogadni másokat.
+        </p>
 
 
-            <div class="kepek">
+        <div class="kepek">
 
-                <div class="keptarolo"><img src="../../../Kepek/macskak/Eszteban/cat-bandana-gangster-heni-rahmawati-transparent.png" alt="" id="bal"></div>
-                
-                
-        
-                
-                
+            <div class="keptarolo">
+                <img
+                    src="../../../Kepek/macskak/Eszteban/cat-bandana-gangster-heni-rahmawati-transparent.png" alt=""
+                    id="bal">
             </div>
-
         </div>
 
+        <div class="lablec">
+            <div class="labeldiv">
+                <label for="email">A maga email címe:</label>
+                <input type="email" name="email">
+                <br>
+                <br>
+                <label for="tele">A maga telefonszáma:</label>
+                <input type="tel" name="tele" id="">
+                <br><br>
+                <label for="lakcim">A maga lakcíme:</label>
+                <input type="text" name="lakcim" id="">
+            </div>
+            <div class="megrendelesdiv">
+                <a onclick="nemmukodikfunkc()">Megrendelés</a>
+            </div>
+        </div>
 
-            <script>
-                const burgerGomb = document.querySelector(".burger");
-                let menuLatszik = false;
-        
-                burgerGomb.addEventListener("click", function handleClick(event) {
-                    if (menuLatszik) {
-                        menuLatszik = false;
-                        document.getElementById("burger_menu").style.display = "none";
-                    } else {
-                        menuLatszik = true;
-                        document.getElementById("burger_menu").style.display = "flex";
-                    }
-                });
-            </script>
+    </div>
+
+
+    <script>
+        function nemmukodikfunkc() {
+            let popup = alert("\nEsztebán úton van a megadott kordinátákra!")
+
+        }
+
+        const burgerGomb = document.querySelector(".burger");
+        let menuLatszik = false;
+
+        burgerGomb.addEventListener("click", function handleClick(event) {
+            if (menuLatszik) {
+                menuLatszik = false;
+                document.getElementById("burger_menu").style.display = "none";
+            } else {
+                menuLatszik = true;
+                document.getElementById("burger_menu").style.display = "flex";
+            }
+        });
+    </script>
 
 </body>
 
